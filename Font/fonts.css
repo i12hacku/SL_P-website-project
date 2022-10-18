@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "aquire-bw0ox";
+  src: url("Aquire-BW0ox.otf") format("opentype");
+  src: url("aquire-bw0ox-webfont.woff") format("woff"),
+  url("aquire-bw0ox-webfont.woff2") format("woff2"),
+  
+}
+
+
+@font-face {
+  font-family: "AquireBold-8Ma60" ;
+  src: url("AquireBold-8Ma60.otf") format("opentype");
+  src: url("aquirebold-8ma60-webfont.woff") format("woff"),
+  url("aquirebold-8ma60-webfont.woff2") format("woff2")
+}
