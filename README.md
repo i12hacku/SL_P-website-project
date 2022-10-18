@@ -23,5 +23,5 @@
 
 ## Web Create and Devoloped By 
 
-* Mr.Dinuwa Admin Of Sl Programmers ( Owner Of TECH WITH DINUWA )
-* Z Hacker Admin Of Sl Programmers
+
+* Pulitha (Z Hacker) Admin Of Sl Programmers
