@@ -2,8 +2,13 @@
 {
   margin: 0;
   padding: 0;
-  
+}
 
+#banner{
+    background: url(bg1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
 .container{
