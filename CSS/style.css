@@ -196,4 +196,16 @@ footer {
   /* position: fixed;
   z-index: 1; */
 }
-
+#footer .social-icon{
+  display: flex;
+  margin-bottom: 30px;
+}
+#footer .social-item{
+  height: 50px;
+  width: 50px;
+  margin: 0 10px;
+}
+#footer p{
+  color: White;
+  font-size: 1.3rem;
+}
