@@ -185,5 +185,15 @@ a:hover span:nth-child(4){
 
 }
 
-
+footer {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* position: fixed;
+  z-index: 1; */
+}
 
