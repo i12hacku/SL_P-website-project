@@ -184,17 +184,22 @@ a:hover span:nth-child(4){
     position: absolute;  
 
 }
-
-footer {
-  text-align: center;
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* position: fixed;
-  z-index: 1; */
+#footer{
+  background-color: #454545;
+}
+#footer .footer{
+  min-height: 200px;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+#footer h2{
+  color: White;
+  font-weight: 500;
+  font-size: 1.4rem;
+  letter-spacing: .1rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 #footer .social-icon{
   display: flex;
