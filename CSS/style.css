@@ -187,7 +187,7 @@ a:hover span:nth-child(4){
 #footer{
   background-color: #454545;
 }
-#footer .footer{
+.footer{
   min-height: 200px;
   flex-direction: column;
   padding-top: 20px;
@@ -201,11 +201,11 @@ a:hover span:nth-child(4){
   margin-top: 5px;
   margin-bottom: 5px;
 }
-#footer .social-icon{
+.social-icon{
   display: flex;
   margin-bottom: 30px;
 }
-#footer .social-item{
+.social-item{
   height: 50px;
   width: 50px;
   margin: 0 10px;
